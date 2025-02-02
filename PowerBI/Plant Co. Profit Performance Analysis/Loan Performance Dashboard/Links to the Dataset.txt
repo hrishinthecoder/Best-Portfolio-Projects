@@ -1,0 +1,18 @@
+﻿Prosper_Loan Dataset : 
+
+
+https://drive.google.com/file/d/1XQgw-vbeqtZssg1YZMqrQSTwam0qS-ws/view?usp=sharing
+
+
+
+
+Cleaned Prosper_Loan dataset:
+
+
+https://drive.google.com/file/d/1NR79OFMwpmcEi46yyOAgwgUCz9eFnmLQ/view?usp=sharing
+
+
+Encoded Prosper_Loan Dataset:
+
+
+https://drive.google.com/file/d/1BOalNBj-sc5hl3GHAVyHE8rGvDBUDilK/view?usp=sharing
